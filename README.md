@@ -31,4 +31,4 @@
 ●	Должно запускаться открытием файла index.html в браузере (без сервера)
 ●	Не должно быть недостижимых зон
 
-# [Live]([https://thatv1n.github.io/calculator](https://thatv1n.github.io/ROUGE-GAME/)https://thatv1n.github.io/ROUGE-GAME/).
+# [Live](https://thatv1n.github.io/ROUGE-GAME/).
